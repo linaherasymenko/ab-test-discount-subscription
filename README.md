@@ -7,7 +7,7 @@ This project analyzes the impact of a 50% discount on subscription conversion us
 ## 📁 Files
 
 - [AB test.ipynb](./AB%20test.ipynb) — Jupyter Notebook with full analysis
-- [ab_testing.pdf](./ab_testing.pdf) — Downloadable Final case study report
+- [ab_testing.pdf](./ab_testing.pdf) — Download Final case study report
 - `statistical_analysis.png` — Screenshot: t-test and chi-squared test results
 - `test_results.png` — Screenshot: overall test summary and conversion rates
 
