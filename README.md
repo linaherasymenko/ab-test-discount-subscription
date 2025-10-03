@@ -28,7 +28,8 @@ This project analyzes the impact of a 50% discount on subscription conversion us
 
 ### Statistical Analysis
 
-![Statistical Analysis](./statistical analysis.png)
+![Statistical Analysis](./statistical%20analysis.png)
+
 
 ---
 
